@@ -1,0 +1,199 @@
+.margin-top-15 {
+  margin-top: 15px;
+}
+
+.margin-top-5 {
+  margin-top: 5px;
+}
+
+.margin-auto {
+  margin: 0 auto;
+}
+
+.no-style {
+  text-decoration: none;
+}
+
+.header-container{
+  background-color: #B3BFC7;
+  text-align: center;
+  padding: 10px;
+  border-top-left-radius: 10px;
+}
+
+.header-controls{
+  background-color: #444444;
+  text-align: center;
+  padding: 10px;
+  border-top-right-radius: 10px;
+}
+
+.login-panel{
+  margin: 50px auto;
+  width: 400px;
+}
+
+.special {
+  color: red;
+}
+
+.my-class {
+  margin: 10px;
+}
+
+.my-img-title {
+  text-align: center;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.my-img {
+  border: 1px solid black;
+  width: 250px;
+  height: 250px;
+  background: black;
+  object-fit: contain;
+}
+
+#title{
+  font-size: 60px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: -10px;
+  margin-right: 10px ;
+  margin-left: 10px ;
+  margin-top:-10px;
+  margin-bottom:-11px;
+  font-family: sans-serif;  
+  color: black;
+  font-weight: bold;
+}
+body{
+  background-color: #D3E7EBDB;
+}
+.col.x{
+background-color: #B3BFC7;
+padding: 25px;
+}
+.col.xx2{
+background-color: #B3BFC7;
+padding: 25px;
+}
+#week{
+font-size: 35pt;
+font-weight: bold;
+text-align: center;
+color: black;
+}
+.circle{
+justify-content: center;
+padding-top: 140px;
+font-size: 75px;
+font-weight: bold;
+height: 370px;
+text-align: center;
+margin-bottom:-10px;
+color: black;
+}
+::placeholder{
+font-size: large;
+color: #545454;
+font-weight: bold;
+}
+.input{
+  text-align: center;
+  background-color: #B3BFC7;
+  color: #545454;
+  border: #B3BFC7;
+}
+button{
+  margin-left: 25px;
+  padding: 12px;
+}
+.my-calendar{
+  display: block;
+}
+.my-calendar-edit{
+  display: none;   
+}
+.my-calendar-edit-2{
+  display: none;   
+}
+.carousel-display{
+  display: block;
+
+}
+.carousel-edit{
+  display: none;   
+}
+
+.header-display{
+  display: block;
+}
+.header-edit{
+  display: none;   
+}
+.w-100 {
+  max-width: 100px;
+  max-height: 100px;
+}
+a.linkstyle:link{
+  text-decoration: none;
+  font-family: sans-serif;
+  color: white;	
+}
+a.linkstyle:visited{
+ font-family: sans-serif;
+ color: white;
+ text-decoration: none;
+}
+a.linkstyle:hover{
+ font-family: sans-serif;
+ color: blue;
+ text-decoration: blink;
+
+}
+
+.calendarstyle{
+font-weight: bold;
+color: black;
+font-size: 25px;
+}
+
+.header-entry-admin{
+  font-size: 16px;
+  float: left;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.header-entry-user + .header-entry-user::before{
+  content: "--- ";
+}
+.status-display{
+  display: block;
+}
+.status-edit{
+  display: none;   
+}
+.status-edit-block{
+  border: 1px solid black;   
+  border-radius: 5px;
+  padding: 10px;
+}
+.status-controls{
+  margin-top: 10px;
+}
+button{
+  margin-left: 0px;
+}
+
+button a{
+  text-decoration: none;
+  color: black;
+}
